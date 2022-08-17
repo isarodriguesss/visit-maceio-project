@@ -1,11 +1,12 @@
 body {
     margin: 0;
     text-align: center;
+    font-family: 'Arial';
 }
 
 .header {
     background-image: url("images/maceio.jpg");
-    background-size: cover;
+    background-size: contain;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -16,7 +17,7 @@ body {
 
 .header:hover {
      background-image: url("images/maceio2.jpg");
-     background-size: cover;
+     background-size: contain;
 }
 
 #header-title {
@@ -50,8 +51,8 @@ body {
 
 .activities-img {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .activities-img:hover {
@@ -61,7 +62,7 @@ body {
 .act-detail {
     margin: 48px 33px;
     padding: 0;
-    width: 200px;
+    width: 300px;
 }
 
 .guide-section {
@@ -77,6 +78,7 @@ body {
     border-radius: 10px;
     border-bottom: 7px solid #1D3557;
     margin: 50px 160px;
+    width: 500px;
 }
 
 #card-img {
