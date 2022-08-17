@@ -2,7 +2,6 @@
 
 ## Description
 
-This is my first project in HTML and CSS with Scrimba course. 
+This is my first project in HTML and CSS with Scrimba course.
 
-- https://scrimba.com/allcourses
-
+You can access the site here: **https://visit-maceio.netlify.app/**
